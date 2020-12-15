@@ -1,0 +1,19 @@
+{
+  "name": "mynodefiles",
+  "version": "4.15.1",
+  "description": "simple we App\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Cb App",
+  "main": "mynode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmooshiri/Intro-to-node.git"
+  },
+  "author": "Siroos Moshiri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmooshiri/Intro-to-node/issues"
+  },
+  "homepage": "https://github.com/mmooshiri/Intro-to-node#readme"
+}
